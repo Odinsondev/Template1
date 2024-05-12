@@ -1,2 +1,3 @@
 # template1
-Template repository - Webpack, ESlint
+
+Template repository - Webpack
